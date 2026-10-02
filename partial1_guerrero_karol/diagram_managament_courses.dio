@@ -1,0 +1,43 @@
+<mxfile host="65bd71144e">
+    <diagram id="O2TPUPL2XNL81tzzcnYa" name="Page-1">
+        <mxGraphModel dx="645" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="C0XUokWnV_m7F2K2TSe4-10" edge="1" parent="1" source="C0XUokWnV_m7F2K2TSe4-1" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="C0XUokWnV_m7F2K2TSe4-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="C0XUokWnV_m7F2K2TSe4-11" edge="1" parent="1" source="C0XUokWnV_m7F2K2TSe4-1" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="C0XUokWnV_m7F2K2TSe4-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="C0XUokWnV_m7F2K2TSe4-14" edge="1" parent="1" source="C0XUokWnV_m7F2K2TSe4-1" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="C0XUokWnV_m7F2K2TSe4-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="C0XUokWnV_m7F2K2TSe4-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Usuario/Estudiante" vertex="1">
+                    <mxGeometry height="60" width="30" x="110" y="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="C0XUokWnV_m7F2K2TSe4-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Obtener Certificado del Curso" vertex="1">
+                    <mxGeometry height="80" width="120" x="230" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="C0XUokWnV_m7F2K2TSe4-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Visualizar el progreso&amp;nbsp;" vertex="1">
+                    <mxGeometry height="80" width="120" x="230" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="C0XUokWnV_m7F2K2TSe4-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inscribirse en un curso" vertex="1">
+                    <mxGeometry height="80" width="120" x="230" y="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="C0XUokWnV_m7F2K2TSe4-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Filtrar por lenguaje/Nivel" vertex="1">
+                    <mxGeometry height="80" width="120" x="230" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="C0XUokWnV_m7F2K2TSe4-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Ver catalogo de cursos&amp;nbsp;" vertex="1">
+                    <mxGeometry height="80" width="120" x="230" y="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="C0XUokWnV_m7F2K2TSe4-12" edge="1" parent="1" source="C0XUokWnV_m7F2K2TSe4-1" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.125;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" target="C0XUokWnV_m7F2K2TSe4-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="C0XUokWnV_m7F2K2TSe4-13" edge="1" parent="1" source="C0XUokWnV_m7F2K2TSe4-1" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" target="C0XUokWnV_m7F2K2TSe4-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
